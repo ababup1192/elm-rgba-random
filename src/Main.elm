@@ -84,7 +84,6 @@ view { color } =
                 [ String.fromInt red
                 , String.fromInt green
                 , String.fromInt blue
-                , String.fromFloat alpha
                 ]
     in
     div [ class "container" ]
